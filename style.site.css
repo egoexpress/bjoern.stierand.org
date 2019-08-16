@@ -1,0 +1,70 @@
+.idno-object a.p-category {
+    font-size: 0.8em;
+}
+
+.idno-entry .h-card {
+    visibility: hidden;
+}
+
+.idno-body .photo-title a {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.idno-content p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.idno-body .idno-bookmark a, .idno-posts h5.idno-bookmark {
+    font-size: 18px;
+}
+
+[class*=" fa fa-"], [class^="fa fa-"], [class^="fab fa-"], [class^="fas fa-"] {
+    font-size: medium;
+}
+
+.idno-object .footer p {
+    font-size: 14px;
+}
+
+.idno-object .footer {
+    border-top: 2px solid #223d96;
+}
+
+.navbar.navbar-default .nav > li > a {
+    color: #fff;
+}
+
+.navbar.navbar-default .nav li.dropdown > .dropdown-toggle .caret {
+    color: #fff;
+    border-bottom-color: #fff;
+    border-top-color: #fff;
+}
+
+.idno-object a.p-category {
+    color: #286f3a;
+    font-family: "Open Sans","Corbel","Arial",sans-serif;
+    font-size: 18px;
+}
+
+blockquote {
+    border-left: 5px solid #223d96;
+}
+
+.idno-object .permalink a {
+    color: #223d96;
+}
+
+.pager li > a, .pager li > span {
+    color: #223d96;
+    border: 2px solid #223d96;
+}
+
+.u-platform {
+  visibility: hidden;
+}
+
+.idno-body .photo-title a {
+    font-weight: 600;
+}
