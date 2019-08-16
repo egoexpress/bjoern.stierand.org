@@ -20,7 +20,7 @@
     font-size: 18px;
 }
 
-[class*=" fa fa-"], [class^="fa fa-"], [class^="fab fa-"], [class^="fas fa-"] {
+[class*=" fa fa-"], [class^="fa fa-"], [class^="fab fa-"], [class^="fas fa-"], [class^="far fa-"] {
     font-size: medium;
 }
 
@@ -67,4 +67,34 @@ blockquote {
 
 .idno-body .photo-title a {
     font-weight: 600;
+}
+
+a.contentTypeButton {
+    color: #223d96;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    border-radius: 0%;
+    border: none;
+    margin-bottom: 0px;
+    width: 50px;
+    height: 50px;
+}
+
+.idno-entry h2 {
+    font-size: 18px;
+}
+
+a.contentTypeButton:hover {
+    background: none !important;
+    color: #fc9320;
+    border: none; !important
+}
+
+h4 {
+   font-weight: normal !important;
+}
+
+.idno-object .idno-body li {
+    font-family: "Open Sans","Corbel","Arial",sans-serif;
+    font-size: 18px;
 }
