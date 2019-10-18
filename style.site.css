@@ -2,12 +2,16 @@
     font-size: 0.8em;
 }
 
+body {
+    background-color: #eee
+}
+
 .idno-entry .h-card {
     visibility: hidden;
 }
 
 .idno-body .photo-title a {
-    font-size: 18px;
+    font-size: 19px;
     font-weight: 400;
 }
 
