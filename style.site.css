@@ -16,7 +16,7 @@ body {
 
 .idno-body .photo-title a {
     font-size: 19px;
-    font-weight: 400;
+    font-weight: normal;
 }
 
 .idno-content p {
@@ -73,10 +73,6 @@ blockquote {
   visibility: hidden;
 }
 
-.idno-body .photo-title a {
-    font-weight: 600;
-}
-
 a.contentTypeButton {
     color: #223d96;
     padding-bottom: 20px;
@@ -105,4 +101,16 @@ h4 {
 .idno-object .idno-body li {
     font-family: "Open Sans","Corbel","Arial",sans-serif;
     font-size: 18px;
+}
+
+.profile .highlightedText {
+    font-size: 18px;
+}
+
+.profile h1 {
+    font-size: 30px;
+}
+
+.navbar-brand {
+    letter-spacing: 2px;
 }
